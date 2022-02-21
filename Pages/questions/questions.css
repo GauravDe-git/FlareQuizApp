@@ -1,0 +1,54 @@
+.heading3{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.heading4{
+    color: aliceblue;
+    text-align: center;
+}
+
+.heading5{
+    color: aliceblue;
+    text-align: center;
+}
+
+.quiz-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.quiz-container{
+ max-width: 25rem;
+margin-left: 47rem;
+}
+
+.quiz-descr{
+    padding-top: 1rem;
+    margin-top: 0.3rem;
+}
+
+.btn{
+    margin: 0.4rem;
+    background-color: rgb(75, 75, 75);
+    padding-right: 9.5rem;
+    padding-left: 9.5rem;
+}
+
+.btn-success{
+    background-color: greenyellow;
+}
+
+.btn-danger{
+    background-color: red;
+}
+
+.quiz-options{
+    margin: 0.4rem;
+    display: flex;
+    flex-direction: column;
+}
